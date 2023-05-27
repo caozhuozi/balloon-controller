@@ -1,0 +1,7 @@
+apiVersion: "book.dong.io/v1"
+kind: "Balloon"
+metadata:
+  name: "balloon-example"
+  namespace: "default"
+spec:
+  releaseTime: "2023-05-20T13:14:00Z"
